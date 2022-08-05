@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind component;
+@tailwind utilities;
+
+
+body{
+  font-family: 'Lato', sans-serif;
+  overflow: hidden
+}
+
+
+.hide-scrollbar::-webkit-scrollbar{
+  display: none
+}
